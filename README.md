@@ -23,8 +23,9 @@
    ➡️ Elaboración del código en Java, Backend de la aplicación, interfaz principal. Conexión con la base de datos.<br>
 
   - Visual Studio Code:<br>
-    ➡️Frontend de la aplicación. Diseño de la página, funcionalidades de la página en Javascript.<br>
+    ➡️Frontend de la aplicación. Diseño de la página, funcionalidades de la página en Javascript. Conexión con el Backend<br>
 
-  - 
+  - PGAdmin: <br>
+    ➡️Creación de la base de datos necesaria para el sistema. Inserción de datos. Habilitar consultas sobre los datos. <br>
   </p>
 </h4>
