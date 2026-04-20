@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml"
+      stylesheets="/styles/styles.css"
+      fx:controller="dam.code.controller.ActividadController"
+      spacing="10"
+      alignment="CENTER">
+
+    <Label text="Gestión de Actividades" styleClass="title"/>
+    <HBox spacing="10" alignment="CENTER">
+        <Label text="Usuario" fx:id="lblUsuario"/>
+        <Button text="Cerrar Sesión" onAction="#cerrarSesion" styleClass="button-close"/>
+    </HBox>
+
+    <VBox spacing="10" alignment="CENTER">
+        <HBox spacing="10" alignment="CENTER">
+            <TextField fx:id="txtActividad" promptText="Actividad"/>
+            <TextField fx:id="txtDuracion" promptText="Duración"/>
+            <Button text="Añadir Actividad" onAction="#addActividad"/>
+        </HBox>
+        <Button text="Interes" onAction="#interes" styleClass="btn-secondary"/>
+    </VBox>
+
+    <TableView fx:id="tablaActividades" VBox.vgrow="ALWAYS">
+        <columns>
+            <TableColumn fx:id="colId" text="Id"/>
+            <TableColumn fx:id="colActividad" text="Actividad"/>
+            <TableColumn fx:id="colDuracion" text="Duracion"/>
+        </columns>
+    </TableView>
+
+</VBox>
