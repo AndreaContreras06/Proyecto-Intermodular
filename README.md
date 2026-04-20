@@ -15,9 +15,16 @@
 
 <h4>
   Hemos seleccionado las herramientas que mejor se ajustan a nuestras necesidades a la hora de desarrollar este proyecto. <br>
+  <p>
     - GitHub:<br>
     ➡️ Control de versiones, almacenamiento y acceso al código de todas las partes del proyecto.<br>
   
-    - IntelliJ:<br>
-    
+   - IntelliJ:<br>
+   ➡️ Elaboración del código en Java, Backend de la aplicación, interfaz principal. Conexión con la base de datos.<br>
+
+  - Visual Studio Code:<br>
+    ➡️Frontend de la aplicación. Diseño de la página, funcionalidades de la página en Javascript.<br>
+
+  - 
+  </p>
 </h4>
