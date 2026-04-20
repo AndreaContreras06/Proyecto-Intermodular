@@ -7,10 +7,10 @@
 <h3>
   Este proyecto ha sido creado usando Windows 11 como sistema operativo.
   Para realizar este proyecto hemos usado diferentes lenguajes de programación, entre los que se incluyen: <br>
-    - Java <br>
-    - JavaScript <br>
-    - SQL <br>
-    - HTML <br>
+- Java <br>
+- JavaScript <br>
+- SQL <br>
+- HTML <br>
 </h3>
 
 <h4>
