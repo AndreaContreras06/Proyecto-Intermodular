@@ -1,6 +1,6 @@
 # Proyecto-Intermodular
 
-<h1>GymFlow</h1>
+<h2>GymPrometeo</h2>
 
 ### Este proyecto tiene como intencion crear un espacio llamado GymFlow, siendo un gimnasio con una base de datos de usuarios, equipamiento, con página web y servicios de registro, inicio sesión y realización de reservas.
 
@@ -11,8 +11,9 @@
     - JavaScript <br>
     - SQL <br>
     - HTML <br>
+  <b>hola</b>
 </h3>
 
 <h4>
-  hola
+  
 </h4>
