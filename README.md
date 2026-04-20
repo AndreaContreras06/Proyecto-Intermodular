@@ -11,9 +11,13 @@
     - JavaScript <br>
     - SQL <br>
     - HTML <br>
-  <b>hola</b>
 </h3>
 
 <h4>
+  Hemos seleccionado las herramientas que mejor se ajustan a nuestras necesidades a la hora de desarrollar este proyecto. <br>
+    - GitHub:<br>
+    ➡️ Control de versiones, almacenamiento y acceso al código de todas las partes del proyecto.<br>
   
+    - IntelliJ:<br>
+    
 </h4>
