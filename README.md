@@ -15,7 +15,7 @@
 
 <h4>
   Hemos seleccionado las herramientas que mejor se ajustan a nuestras necesidades a la hora de desarrollar este proyecto. <br>
-  <p>
+  
   - GitHub:<br>
     ➡️ Control de versiones, almacenamiento y acceso al código de todas las partes del proyecto.<br>
   
@@ -27,5 +27,5 @@
 
   - PGAdmin: <br>
     ➡️Creación de la base de datos necesaria para el sistema. Inserción de datos. Habilitar consultas sobre los datos. <br>
-  </p>
+ 
 </h4>
